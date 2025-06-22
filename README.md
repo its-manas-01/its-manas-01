@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Manas Ghosh
 
 # 💫 About Me:
-🎤 I’m currently working on web projects that mix backend logic with interactive frontend features.<br>🧑‍🤝‍🧑 I’m looking to team up on fun and smart web apps — especially anything with Laravel, MERN stack, or slick UI.<br>🤝 I could use some help with making my frontend look less like a developer built it 😅<br>🌱 Right now I’m learning the MERN stack, diving deeper into Laravel, and building skills in Python and Java.<br>🗨️ Ask me about Laravel tricks, creative problem solving, or how I built a web-based To-Do list using Core PHP.<br>⚡ Fun fact: I created a full To-Do list system with just Core PHP — no frameworks, just pure code! ✅
+🎤 I’m currently working on web projects that mix backend logic with interactive frontend features.<br>🧑‍🤝‍🧑 I’m looking to team up on fun and smart web apps — especially anything with Laravel, MERN stack, AI, or slick UI.<br>🤝 I could use some help with making my frontend look less like a developer built it 😅<br>🌱 Right now I’m learning the MERN stack, diving deeper into Laravel, and building skills in Python and Java.<br>🗨️ Ask me about Laravel tricks, creative problem solving, or how I built a web-based To-Do list using Core PHP.<br>⚡ Fun fact: I created a full To-Do list system with just Core PHP — no frameworks, just pure code! ✅
 
 
 ## 🌐 Socials:
